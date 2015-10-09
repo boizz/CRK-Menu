@@ -78,8 +78,8 @@ jQuery(function(){
         "margin":"3px 0 5px 0"
     });
     jQuery(".ccRightNav li.qrBox").css({
-        "width":rightNavC.height()-22+"px",
-        "height":rightNavC.height()-22+"px",
+        "width":rightNavC.height()-20+"px",
+        "height":rightNavC.height()-20+"px",
         "max-width":"300px",
         "max-height":"300px",
         "position":"absolute",
